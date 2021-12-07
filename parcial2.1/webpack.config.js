@@ -7,6 +7,7 @@ const path = require('path');
         signup: './src/signup.js',
         login: './src/login.js',
         main: './src/main.js'
+       
     },
     output: {
         path: path.resolve(__dirname, 'public'),
